@@ -1,0 +1,280 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "featured_categories": "",
+      "show_wallpaper_name": true,
+      "show_wallpaper_category": false,
+      "show_favorite_button_in_wallpaper_list": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": false,
+      "enable_app_protection": false,
+      "base64_license_key": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.cassiodev.indoesportswallpaper",
+      "privacy_policy_url": "https://estehsakgelasdev.blogspot.com/2023/11/indonesia-esports-wallpapers-privacy.html"
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3327331946841025/2127006987",
+      "admob_interstitial_unit_id": "ca-app-pub-3327331946841025/9813925315",
+      "admob_native_unit_id": "ca-app-pub-3327331946841025/1301010471",
+      "admob_app_open_unit_id": "ca-app-pub-3327331946841025/1996033983",
+      "ad_manager_banner_unit_id": "",
+      "ad_manager_interstitial_unit_id": "",
+      "ad_manager_native_unit_id": "",
+      "ad_manager_app_open_unit_id": "",
+      "fan_banner_unit_id": "",
+      "fan_interstitial_unit_id": "",
+      "fan_native_unit_id": "",
+      "startapp_app_id": "0",
+      "unity_game_id": "",
+      "unity_banner_placement_id": "",
+      "unity_interstitial_placement_id": "",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "",
+      "ironsource_banner_id": "",
+      "ironsource_interstitial_id": "",
+      "wortise_app_id": "",
+      "wortise_banner_id": "",
+      "wortise_interstitial_id": "",
+      "wortise_native_id": "",
+      "wortise_app_open_id": "",
+      "interstitial_ad_interval": 3,
+      "native_ad_index_grid2": 2,
+      "native_ad_index_grid3": 6,
+      "native_ad_interval_grid2": 7,
+      "native_ad_interval_grid3": 10,
+      "native_ad_style": "medium",
+      "show_banner_ad_home": true,
+      "show_banner_ad_wallpaper_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_wallpaper_list": true,
+      "show_interstitial_ad_wallpaper_details": true,
+      "show_native_ad_wallpaper_list": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "wallpaper_name": "Indo Esports 1",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1cztmJs2hLB1RY4s8GUKNxcnP89eqfQwz"
+    },
+    {
+      "wallpaper_id": 2,
+      "wallpaper_name": "Indo Esports 2",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1e-dNfptC5t6wrDlQ5s9MdLNUOseIo7mO"
+    },
+    {
+      "wallpaper_id": 3,
+      "wallpaper_name": "Indo Esports 3",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1o9bFvz-pug9H7Ohqzif0XLz966ITy-Jj"
+    },
+    {
+      "wallpaper_id": 4,
+      "wallpaper_name": "Indo Esports 4",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1ikq1-uA_yCqKo5cdKkcZrZumjA1GkOya"
+    },
+    {
+      "wallpaper_id": 5,
+      "wallpaper_name": "Indo Esports 5",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1q6H3P7uh1cxq1KukLO8lYCACQBS2VVlA"
+    },
+	{
+      "wallpaper_id": 6,
+      "wallpaper_name": "Indo Esports 6",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1DAXdi6bpJArOqfdzVmr0Y2TmU7aZyE54"
+    },
+    {
+      "wallpaper_id": 7,
+      "wallpaper_name": "Indo Esports 7",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1vYqfzt2DhgwBkmiyKWPJi0u3UyiOc2cZ"
+    },
+    {
+      "wallpaper_id": 8,
+      "wallpaper_name": "Indo Esports 8",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=15cJe19lU6N5UasFt6cHOyOfj5WNAuOtL"
+    },
+    {
+      "wallpaper_id": 9,
+      "wallpaper_name": "Indo Esports 9",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1zBULsEyn3moJEChgwwCx7ONiaS-Fr3Xz"
+    },
+    {
+      "wallpaper_id": 10,
+      "wallpaper_name": "Indo Esports 10",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1EO5wT3r_GO7Zg4QqexElumhfqBmXfids"
+    },
+	{
+      "wallpaper_id": 11,
+      "wallpaper_name": "Indo Esports 11",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1U97Z9Ucl8tGPaihwzR066kh_QCjSXzHj"
+    },
+    {
+      "wallpaper_id": 12,
+      "wallpaper_name": "Indo Esports 12",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1TX2NBnD028zJ9VTUU2U4gXkt1Sg-axEc"
+    },
+    {
+      "wallpaper_id": 13,
+      "wallpaper_name": "Indo Esports 13",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1kLsbIMyA4jb9lmPsXke8Y9POK98g9pRn"
+    },
+    {
+      "wallpaper_id": 14,
+      "wallpaper_name": "Indo Esports 14",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1JupksLnhw1iDO4apybMQXvVH1OakWUJ4"
+    },
+    {
+      "wallpaper_id": 15,
+      "wallpaper_name": "Indo Esports 15",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1qJi560LauGe9DhZFw9c2eg4aYXXZiw4V"
+    },
+	{
+      "wallpaper_id": 16,
+      "wallpaper_name": "Indo Esports 16",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1LJoTbo_1B-zw0Yqml3qyqxxFx9fH5IJh"
+    },
+    {
+      "wallpaper_id": 17,
+      "wallpaper_name": "Indo Esports 17",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1oJYAp0MMBKvH_ahg3WnLlIDMsTZXM6H1"
+    },
+    {
+      "wallpaper_id": 18,
+      "wallpaper_name": "Indo Esports 18",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1QV9MDwwOrlKfBRQrZZYje6SGuQBJAmfL"
+    },
+    {
+      "wallpaper_id": 19,
+      "wallpaper_name": "Indo Esports 19",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1XJIsmZwFKEko9hus_JVzjyaZZl7MjW-Q"
+    },
+    {
+      "wallpaper_id": 20,
+      "wallpaper_name": "Indo Esports 20",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1RDZNroIQwTEiqDo_j8zq1bV98qKzOjha"
+    },
+	{
+      "wallpaper_id": 21,
+      "wallpaper_name": "Indo Esports 21",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=18i4ReiH_V34VhXHG_2RkV0pXWEhKfBvb"
+    },
+    {
+      "wallpaper_id": 22,
+      "wallpaper_name": "Indo Esports 22",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1jjDZWziRsAV2wsYmBri9JcQPcS7wH03O"
+    },
+	{
+      "wallpaper_id": 23,
+      "wallpaper_name": "Indo Esports 23",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1DAZVWa3YmCTRJVY5AVGFyusgLlzEvrGp"
+    },
+    {
+      "wallpaper_id": 24,
+      "wallpaper_name": "Indo Esports 24",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1STivLlMndxS3xPQVe1N8uiKNztA0LMUx"
+    },
+    {
+      "wallpaper_id": 25,
+      "wallpaper_name": "Indo Esports 25",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1CunGKf8uuwsjMFVjIH-A7bqE3yw-xu07"
+    },
+    {
+      "wallpaper_id": 26,
+      "wallpaper_name": "Indo Esports 26",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1Nb9bEdhZRAstNjvV-JwSXVQCfCE-qkuf"
+    },
+    {
+      "wallpaper_id": 27,
+      "wallpaper_name": "Indo Esports 27",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1dhfrOnpMVA0FaU5R3BLGje4m0xJKVCLF"
+    },
+	{
+      "wallpaper_id": 28,
+      "wallpaper_name": "Indo Esports 28",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1qCeUbv4ZcvDT03Ir2NxxVNv2tzb1BZzA"
+    },
+    {
+      "wallpaper_id": 29,
+      "wallpaper_name": "Indo Esports 29",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1Oht6Bc7WjzTwsv08pLT1j0a2Lp8Ynklj"
+    },
+    {
+      "wallpaper_id": 30,
+      "wallpaper_name": "Indo Esports 30",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1ZT9x51-huF7NlUrzWeJU5Jo_GfPJvqwi"
+    },
+    {
+      "wallpaper_id": 31,
+      "wallpaper_name": "Indo Esports 31",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1ZgpRVdf7_lLrYq1bZWqF03EfHzDhCEQE"
+    },
+    {
+      "wallpaper_id": 32,
+      "wallpaper_name": "Indo Esports 32",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1fdYqRZxWOC57r6pc0p0ccWNHEfkM2uY-"
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Evos Esports Wallpaper",
+      "image": "https://docs.google.com/uc?export=download&id=1If_SgvAPGRN8-ctwepbcU8jVS-Q4FI_F",
+      "url": "https://play.google.com/store/apps/details?id=com.estehsakgelas.evosesportswallpaper"
+    },
+	{
+      "id": 2,
+      "title": "RRQ Esports Wallpaper",
+      "image": "https://docs.google.com/uc?export=download&id=10FSQuiB2EEbnu-wkZpeqE9kgZlVWe6oF",
+      "url": "https://play.google.com/store/apps/details?id=com.estehsakgelas.rrqesportswallpaper"
+    }
+  ]
+}

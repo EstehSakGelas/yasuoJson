@@ -1,0 +1,275 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "featured_categories": "",
+      "show_wallpaper_name": true,
+      "show_wallpaper_category": false,
+      "show_favorite_button_in_wallpaper_list": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": false,
+      "enable_app_protection": false,
+      "base64_license_key": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.estehsakgelas.evosesportswallpaper",
+      "privacy_policy_url": "https://estehsakgelasdev.blogspot.com/2023/11/evos-esports-wallpapers-privacy-policy.html"
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3327331946841025/5969269714",
+      "admob_interstitial_unit_id": "ca-app-pub-3327331946841025/8212289679",
+      "admob_native_unit_id": "ca-app-pub-3327331946841025/5119276377",
+      "admob_app_open_unit_id": "ca-app-pub-3327331946841025/9357904281",
+      "ad_manager_banner_unit_id": "",
+      "ad_manager_interstitial_unit_id": "",
+      "ad_manager_native_unit_id": "",
+      "ad_manager_app_open_unit_id": "",
+      "fan_banner_unit_id": "",
+      "fan_interstitial_unit_id": "",
+      "fan_native_unit_id": "",
+      "startapp_app_id": "0",
+      "unity_game_id": "",
+      "unity_banner_placement_id": "",
+      "unity_interstitial_placement_id": "",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "",
+      "ironsource_banner_id": "",
+      "ironsource_interstitial_id": "",
+      "wortise_app_id": "",
+      "wortise_banner_id": "",
+      "wortise_interstitial_id": "",
+      "wortise_native_id": "",
+      "wortise_app_open_id": "",
+      "interstitial_ad_interval": 3,
+      "native_ad_index_grid2": 2,
+      "native_ad_index_grid3": 6,
+      "native_ad_interval_grid2": 7,
+      "native_ad_interval_grid3": 10,
+      "native_ad_style": "medium",
+      "show_banner_ad_home": true,
+      "show_banner_ad_wallpaper_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_wallpaper_list": true,
+      "show_interstitial_ad_wallpaper_details": true,
+      "show_native_ad_wallpaper_list": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "wallpaper_name": "Evos 1",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1GoDaNpLW7XfXtVihpI2Ba1AaGs_XoBJ9"
+    },
+    {
+      "wallpaper_id": 2,
+      "wallpaper_name": "Evos 2",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=15-LuMEZDILlymumQV9Vwevzepko0guF_"
+    },
+    {
+      "wallpaper_id": 3,
+      "wallpaper_name": "Evos 3",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1613jjstHw2DzxrYYVVU2oa4a7cVXWEqD"
+    },
+    {
+      "wallpaper_id": 4,
+      "wallpaper_name": "Evos 4",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=10nyWvYqJS4yQi9X9b9-4d1kek2FJb1bL"
+    },
+    {
+      "wallpaper_id": 5,
+      "wallpaper_name": "Evos 5",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1ybI1_fLmeCCD8P77dDbMGczQF7KV46Bk"
+    },
+	{
+      "wallpaper_id": 6,
+      "wallpaper_name": "Evos 6",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1w4I8Syz-Ki5MjsiSorqV8VI2r2YGfe0-"
+    },
+    {
+      "wallpaper_id": 7,
+      "wallpaper_name": "Evos 7",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1sI5nNucHFdensVx4Ce5IKvAji03XGrl5"
+    },
+    {
+      "wallpaper_id": 8,
+      "wallpaper_name": "Evos 8",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1d16mkL8F5yBIwI22DnST2s-uT3g7sKSA"
+    },
+    {
+      "wallpaper_id": 9,
+      "wallpaper_name": "Evos 9",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1LxFiwxTajrzTU80sLRgBdellg2gIt4VB"
+    },
+    {
+      "wallpaper_id": 10,
+      "wallpaper_name": "Evos 10",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=18vMNQpfdJf6yDGHpLjwy2Y-IUVg2aDFZ"
+    },
+	{
+      "wallpaper_id": 11,
+      "wallpaper_name": "Evos 11",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1MgYVcwi3sSfB_jsn8wcZtca9_MikGIA2"
+    },
+    {
+      "wallpaper_id": 12,
+      "wallpaper_name": "Evos 12",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=168wfrrlX7YgjCEMrKWS3g7Y3TZNXb8dv"
+    },
+    {
+      "wallpaper_id": 13,
+      "wallpaper_name": "Evos 13",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1SDp6s3N_9VrdqVlV-uTAEpAU6sAjeXZn"
+    },
+    {
+      "wallpaper_id": 14,
+      "wallpaper_name": "Evos 14",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1dFy8Q2_x0oC0xXSl6Z0n62VHF-UFZ8cA"
+    },
+    {
+      "wallpaper_id": 15,
+      "wallpaper_name": "Evos 15",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1lAB1_-xAv9i7cTrHP-HQj_4BoNDTxQG3"
+    },
+	{
+      "wallpaper_id": 16,
+      "wallpaper_name": "Evos 16",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1Fw5su289XwtqN-aaOpdEZLEgluelWZs5"
+    },
+    {
+      "wallpaper_id": 17,
+      "wallpaper_name": "Evos 17",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1ytCHuO2AgBvPcEMjzIBFtnOlXQfytjE1"
+    },
+    {
+      "wallpaper_id": 18,
+      "wallpaper_name": "Evos 18",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1QxSHWsBZRCm382HyymWVKVTgOpBcVk97"
+    },
+    {
+      "wallpaper_id": 19,
+      "wallpaper_name": "Evos 19",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1_vUpes-3Gkf_03jDPuPlp0Ujd_DY74h4"
+    },
+    {
+      "wallpaper_id": 20,
+      "wallpaper_name": "Evos 20",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1vJzbAUmXkMdk0vm-p0yXQOmSYsPYFN2w"
+    },
+	
+    {
+      "wallpaper_id": 21,
+      "wallpaper_name": "Evos 21",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=19BvOTqWkxIGxLZ_CktOQW7fyYh6nZ2xP"
+    },
+    {
+      "wallpaper_id": 22,
+      "wallpaper_name": "Evos 22",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1qLbvCAMHdDc6nicTIGnkInf6qgKVsi9a"
+    },
+	{
+      "wallpaper_id": 23,
+      "wallpaper_name": "Evos 23",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1XFKdpw5Z3B7a1P58BGIzc_YsU56VtS5F"
+    },
+    {
+      "wallpaper_id": 24,
+      "wallpaper_name": "Evos 24",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1eF-UfilF1x7cwNMeUoo5AsUv2vU0j26q"
+    },
+    {
+      "wallpaper_id": 25,
+      "wallpaper_name": "Evos 25",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1wTdpzEZWCkg2-e_Dohc6bXO6S162r_4D"
+    },
+    {
+      "wallpaper_id": 26,
+      "wallpaper_name": "Evos 26",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1KvAo0owJy5EMMMEy0g8sUzEDMAMAm_nI"
+    },
+    {
+      "wallpaper_id": 27,
+      "wallpaper_name": "Evos 27",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1f4PmbgzZiDup2YiRdeiKSjuLwRc5Ty96"
+    },
+	{
+      "wallpaper_id": 28,
+      "wallpaper_name": "Evos 28",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1biDFjHa7wsiKNj-uuPNWgbmjWso3fEMK"
+    },
+    {
+      "wallpaper_id": 29,
+      "wallpaper_name": "Evos 29",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=197lMqVBYRXm76tfFminlD1hkmcnxbw0v"
+    },
+    {
+      "wallpaper_id": 30,
+      "wallpaper_name": "Evos 30",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1OxvbQlfPn4wJStjFzAQGPUrJA1PxJ_pD"
+    },
+    {
+      "wallpaper_id": 31,
+      "wallpaper_name": "Evos 31",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1xT_aMx33GhhKbDcjt8pVNKstF5nJ6NOw"
+    },
+    {
+      "wallpaper_id": 32,
+      "wallpaper_name": "Evos 32",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=13ZsF_UaKkJl6zAOWewpN2IxuEeHfAJlr"
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Evos Esports Wallpaper",
+      "image": "https://docs.google.com/uc?export=download&id=10FSQuiB2EEbnu-wkZpeqE9kgZlVWe6oF",
+      "url": "https://play.google.com/store/apps/details?id=com.estehsakgelas.rrqesportswallpaper"
+    }
+  ]
+}

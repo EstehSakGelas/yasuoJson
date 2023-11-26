@@ -1,0 +1,328 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "featured_categories": "",
+      "show_wallpaper_name": true,
+      "show_wallpaper_category": false,
+      "show_favorite_button_in_wallpaper_list": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": false,
+      "enable_app_protection": false,
+      "base64_license_key": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.cassiodev.vapewallpaper",
+      "privacy_policy_url": "https://estehsakgelasdev.blogspot.com/2023/11/vape-wallpapers-privacy-policy.html"
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3327331946841025/4037090695",
+      "admob_interstitial_unit_id": "ca-app-pub-3327331946841025/7918008840",
+      "admob_native_unit_id": "ca-app-pub-3327331946841025/2665682164",
+      "admob_app_open_unit_id": "ca-app-pub-3327331946841025/2898886263",
+      "ad_manager_banner_unit_id": "",
+      "ad_manager_interstitial_unit_id": "",
+      "ad_manager_native_unit_id": "",
+      "ad_manager_app_open_unit_id": "",
+      "fan_banner_unit_id": "",
+      "fan_interstitial_unit_id": "",
+      "fan_native_unit_id": "",
+      "startapp_app_id": "0",
+      "unity_game_id": "",
+      "unity_banner_placement_id": "",
+      "unity_interstitial_placement_id": "",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "",
+      "ironsource_banner_id": "",
+      "ironsource_interstitial_id": "",
+      "wortise_app_id": "",
+      "wortise_banner_id": "",
+      "wortise_interstitial_id": "",
+      "wortise_native_id": "",
+      "wortise_app_open_id": "",
+      "interstitial_ad_interval": 3,
+      "native_ad_index_grid2": 2,
+      "native_ad_index_grid3": 6,
+      "native_ad_interval_grid2": 7,
+      "native_ad_interval_grid3": 10,
+      "native_ad_style": "medium",
+      "show_banner_ad_home": true,
+      "show_banner_ad_wallpaper_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_wallpaper_list": true,
+      "show_interstitial_ad_wallpaper_details": true,
+      "show_native_ad_wallpaper_list": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "wallpaper_name": "Vape 1",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1Q11SOkFoBkHZPga7kIoUgOqcuyrCZVoy"
+    },
+    {
+      "wallpaper_id": 2,
+      "wallpaper_name": "Vape 2",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1LI4CV69zD4eChod3DLsDnUQO_v3Ez4X1"
+    },
+    {
+      "wallpaper_id": 3,
+      "wallpaper_name": "Vape 3",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1GD4v4yjNTJP8e62ODVYEtdJehn1bw7_p"
+    },
+    {
+      "wallpaper_id": 4,
+      "wallpaper_name": "Vape 4",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1yFeWE6N3XS3rj6Ft75E2EGVf_yTaqHAd"
+    },
+    {
+      "wallpaper_id": 5,
+      "wallpaper_name": "Vape 5",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1IT-4_kGgMtUO27KMv1FmgXy33WllEfh2"
+    },
+	{
+      "wallpaper_id": 6,
+      "wallpaper_name": "Vape 6",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1W3x7iVqEeclCCw84J9DO9DFx8atcgbJ0"
+    },
+    {
+      "wallpaper_id": 7,
+      "wallpaper_name": "Vape 7",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1uVEQTndM_HvzaNjN-WWPoNsNZfeze0mv"
+    },
+    {
+      "wallpaper_id": 8,
+      "wallpaper_name": "Vape 8",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=11W9VCi0DXuUKgVJ5iCuaw8wt8LGJ27Xd"
+    },
+    {
+      "wallpaper_id": 9,
+      "wallpaper_name": "Vape 9",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1y8Kgchm47YmpZEX1fEQ4lHj_TzqRWk4X"
+    },
+    {
+      "wallpaper_id": 10,
+      "wallpaper_name": "Vape 10",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1g9uGFDdBRJ_qyCdmndtkkohuZIAGA10G"
+    },
+	{
+      "wallpaper_id": 11,
+      "wallpaper_name": "Vape 11",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1fSKDUumX_1UhGC4CMEzhYOjx8Z_k_7-a"
+    },
+    {
+      "wallpaper_id": 12,
+      "wallpaper_name": "Vape 12",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1BbKBE-KyATr7d8IqPk6KlDjIM2mc06Tl"
+    },
+    {
+      "wallpaper_id": 13,
+      "wallpaper_name": "Vape 13",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1wp6BKBANf216XLxejB3puC8UHMNk27r3"
+    },
+    {
+      "wallpaper_id": 14,
+      "wallpaper_name": "Vape 14",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1rjv_Sxy7ZUdg5fDBlZ1yDMNisaRB2DAC"
+    },
+    {
+      "wallpaper_id": 15,
+      "wallpaper_name": "Vape 15",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1Hr-P0zm37Wq_7TeUkBUPlQ9j1M5mOy3m"
+    },
+	{
+      "wallpaper_id": 16,
+      "wallpaper_name": "Vape 16",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1IXDfIQdAB4Qa90PIncrS01PnJzwiUn3y"
+    },
+    {
+      "wallpaper_id": 17,
+      "wallpaper_name": "Vape 17",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1TXEzvdRSmp2PXhl2zK0kLS7aa8GzNaWt"
+    },
+    {
+      "wallpaper_id": 18,
+      "wallpaper_name": "Vape 18",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1huHeKLyJkGaCxasL_7GD81kr-G7p-rg6"
+    },
+    {
+      "wallpaper_id": 19,
+      "wallpaper_name": "Vape 19",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=18sUQGTv9ykhF6ybzbszuNyVXsopnrdU8"
+    },
+    {
+      "wallpaper_id": 20,
+      "wallpaper_name": "Vape 20",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1T9Oqb_j5kPSHQnKGAdgVcu47MFQXv_Dv"
+    },
+	{
+      "wallpaper_id": 21,
+      "wallpaper_name": "Vape 21",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1Q7PhENnrfGMnnZw_cxbzeqM6mWuOjuof"
+    },
+    {
+      "wallpaper_id": 22,
+      "wallpaper_name": "Vape 22",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1wUR4l9wOKMyMldwC0JUBD0PUVORm6ZWw"
+    },
+    {
+      "wallpaper_id": 23,
+      "wallpaper_name": "Vape 23",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=10aDuwOUevib4U3rCm9ZkrJN-34mJdiCE"
+    },
+    {
+      "wallpaper_id": 24,
+      "wallpaper_name": "Vape 24",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1HqKvRIRb1rna4fIFRsa9-KYCdikXYSra"
+    },
+    {
+      "wallpaper_id": 25,
+      "wallpaper_name": "Vape 25",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1wzZF7aDLfGfxU2w2o7is7VMQN9NjEFKF"
+    },
+	{
+      "wallpaper_id": 26,
+      "wallpaper_name": "Vape 26",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1H-u05erlbIGzXLfefmwFKdNEKtDqe023"
+    },
+    {
+      "wallpaper_id": 27,
+      "wallpaper_name": "Vape 27",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=117Y-6vC2kvDHVAlkWTtIcj_EgfvUJg4U"
+    },
+    {
+      "wallpaper_id": 28,
+      "wallpaper_name": "Vape 28",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1BE2n2hr69JjgHDzWbFd5vwxyFoA7pfGF"
+    },
+    {
+      "wallpaper_id": 29,
+      "wallpaper_name": "Vape 29",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=12fsYiVIl--ZsMB83lgknaO54yT488zvn"
+    },
+    {
+      "wallpaper_id": 30,
+      "wallpaper_name": "Vape 30",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1oRWhtRmMZl3_HIokLruEyrfzph66YhDc"
+    },
+	{
+      "wallpaper_id": 31,
+      "wallpaper_name": "Vape 31",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1G4a8nZWVHrJ7mr8nNEo6Efo4H-h4Tro3"
+    },
+    {
+      "wallpaper_id": 32,
+      "wallpaper_name": "Vape 32",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=141hJ-jqTa6n5nVOvOi82rFoBuakBm6--"
+    },
+    {
+      "wallpaper_id": 33,
+      "wallpaper_name": "Vape 33",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1LNkjsJI6DJ4G6k9harThaGrMkgBjWulh"
+    },
+    {
+      "wallpaper_id": 34,
+      "wallpaper_name": "Vape 34",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1P2d7AtD000Ni52-8jwT76t3ZZ5qQ09bd"
+    },
+    {
+      "wallpaper_id": 35,
+      "wallpaper_name": "Vape 35",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1QnHdn68EZzjtJ-NFY1-6IyIUDJPQ_YCe"
+    },
+	{
+      "wallpaper_id": 36,
+      "wallpaper_name": "Vape 36",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1IR6fNOqzug06R5EOnBIdF_HYRM5mty1A"
+    },
+    {
+      "wallpaper_id": 37,
+      "wallpaper_name": "Vape 37",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1zH0YT8zuaG70D0Zkl8LChsNWpF4LELvj"
+    },
+    {
+      "wallpaper_id": 38,
+      "wallpaper_name": "Vape 38",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1ptwFbssWbtdmnrzqacixTRsO2hgMoQ1h"
+    },
+    {
+      "wallpaper_id": 39,
+      "wallpaper_name": "Vape 39",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1EyVdzb53GaNyDYFpTVo2CUZYA6P9SF8X"
+    },
+    {
+      "wallpaper_id": 40,
+      "wallpaper_name": "Vape 40",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://docs.google.com/uc?export=download&id=1MgEqFOgi2EWz9ntd2-F02fCn-NDnbK1Y"
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Evos Esports Wallpaper",
+      "image": "https://docs.google.com/uc?export=download&id=1If_SgvAPGRN8-ctwepbcU8jVS-Q4FI_F",
+      "url": "https://play.google.com/store/apps/details?id=com.estehsakgelas.evosesportswallpaper"
+    },
+	{
+      "id": 2,
+      "title": "RRQ Esports Wallpaper",
+      "image": "https://docs.google.com/uc?export=download&id=10FSQuiB2EEbnu-wkZpeqE9kgZlVWe6oF",
+      "url": "https://play.google.com/store/apps/details?id=com.estehsakgelas.rrqesportswallpaper"
+    }
+  ]
+}
